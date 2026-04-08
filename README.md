@@ -1,9 +1,9 @@
 ## Hi, I am Fabián
-A mexican BSc in Data Science with a strong mathematical background and high self-learning skills. Focused on Machine Learning and Applied Mathematics, with a growing interest in backend development. Currently studying NLP and PySpark.
+A mexican BS in Data Science with a strong mathematical background and high self-learning skills. Focused on Machine Learning and Applied Mathematics, with a growing interest in backend development. Currently studying NLP and PySpark.
 
 ## My Tech Stack
 
-It is mainly focused on scientific computing tools, with recent expansion toward more practical and application-oriented development.
+It is mainly focused on Python scientific computing tools, with recent expansion toward more practical and application-oriented development.
 
 | Category | Technologies |
 |----------|-------------|
