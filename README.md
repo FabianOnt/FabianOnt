@@ -1,9 +1,17 @@
 ## Hi, I am Fabián
+<<<<<<< HEAD
 A mexican BS in Data Science with a strong mathematical background and high self-learning skills. Focused on Machine Learning, Applied Mathematics and Python implementation. Interested in backend development and LLM applications.
 
 ## My Tech Stack
 
 Focused on scientific computing tools and application-oriented development.
+=======
+A mexican BS in Data Science with a strong mathematical background and high self-learning skills. Focused on Machine Learning and Applied Mathematics, with a growing interest in backend development. Currently studying NLP and PySpark.
+
+## My Tech Stack
+
+It is mainly focused on Python scientific computing tools, with recent expansion toward more practical and application-oriented development.
+>>>>>>> 1443c01c072f1be19fb605943b03448d59eb3da2
 
 | Category | Technologies |
 |----------|-------------|
