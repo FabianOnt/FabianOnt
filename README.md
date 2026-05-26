@@ -1,5 +1,5 @@
 ## Hi, I am Fabián
-A mexican BS in Data Science with a strong mathematical background and high self-learning skills. Focused on Machine Learning, Applied Mathematics and Python implementation. Interested in backend development and LLM applications.
+A mexican BS in Data Science focused on Machine Learning, Applied Mathematics and Python development. Interested in backend services, LLM applications and databases. With Linux knowledge and experience working with Docker.
 
 ## My Tech Stack
 
@@ -16,6 +16,9 @@ Focused on scientific computing tools and application-oriented development.
 | **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) |
 | **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-FF4438?logo=redis&logoColor=white)|
 | **Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+| **Containers** | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+| **Tools** | ![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=white) ![Vim](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white)
+
 
 And growing :)
 
@@ -28,6 +31,7 @@ And growing :)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 
 Local LLM inventory management AI-assistant powered by LangChain and Ollama (Qwen3.5). Includes a full inventory database, REST API, Redis-based session management, and a dynamic tool-routing chatbot using ~60 tools for warehouses, products, stock, suppliers, purchases, sales, forecasting, and admin operations.
