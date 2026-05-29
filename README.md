@@ -39,6 +39,8 @@ Local LLM inventory management AI-assistant powered by LangChain and Ollama (Qwe
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
 
 Simulation of an online store where users, vendors, products, and orders are generated using probabilistic models. Transactions are driven by a stock-conditioned model (chain rule), forming a Markov Chain over inventory states. Includes a MySQL database and a Power BI dashboard for analytics.
 
