@@ -24,6 +24,19 @@ And growing :)
 
 ## Featured Projects
 
+### 1. [Google PlayStore Apps Analysis](https://github.com/FabianOnt/Google-apps-analysis---dashboard) (ETL + Dashboard +  Analysis)
+
+![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?logo=apachespark&logoColor=white)
+![Power Bi](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?logo=numpy&logoColor=white)
+
+Data analysis project with an end-to-end ETL pipeline using PySpark to clean & process Google Play Store app metadata and user reviews. The data is ingested via a shell script and exported as aggregated tables to create a Power BI dashboard to showcase multiple insights.
+
+
+
 ### 1. [AI-Assistant for Inventory Management](https://github.com/FabianOnt/Inventory-chatbot-langchain-app) (Chatbot + Database + API)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![**LangChain**](https://img.shields.io/badge/LangChain-7FC8FF?logo=langchain&logoColor=white)
