@@ -12,12 +12,12 @@ Focused on scientific computing tools and application-oriented development.
 | **LLMs & AI agents** | ![LangChain](https://img.shields.io/badge/LangChain-7FC8FF?logo=langchain&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white)|
 | **Scientific Computing** | ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white) ![NetworkX](https://img.shields.io/badge/NetworkX-000000?logo=python&logoColor=white) |
 | **Visualization** | ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?logo=python&logoColor=white) |
-| **Data Processing** | ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?logo=python&logoColor=white) |
+| **Data Processing** | ![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?logo=apachespark&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?logo=python&logoColor=white) |
 | **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) |
 | **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-FF4438?logo=redis&logoColor=white)|
 | **Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 | **Containers** | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-| **Tools** | ![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=white) ![Vim](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white)
+| **Tools** | ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white) ![Vim](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white)
 
 
 And growing :)
