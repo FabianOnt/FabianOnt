@@ -37,7 +37,7 @@ Data analysis project with an end-to-end ETL pipeline using PySpark to clean & p
 
 
 
-### 1. [AI-Assistant for Inventory Management](https://github.com/FabianOnt/Inventory-chatbot-langchain-app) (Chatbot + Database + API)
+### 2. [AI-Assistant for Inventory Management](https://github.com/FabianOnt/Inventory-chatbot-langchain-app) (Chatbot + Database + API)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![**LangChain**](https://img.shields.io/badge/LangChain-7FC8FF?logo=langchain&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white)
@@ -50,7 +50,7 @@ Data analysis project with an end-to-end ETL pipeline using PySpark to clean & p
 Local LLM inventory management AI-assistant powered by LangChain and Ollama (Qwen3.5). Includes a full inventory database, REST API, Redis-based session management, and a dynamic tool-routing chatbot using ~60 tools for warehouses, products, stock, suppliers, purchases, sales, forecasting, and admin operations.
 
 
-### 2. [A Generative Model for Online Store Operations](https://github.com/FabianOnt/a-generative-model-for-online-store-operations) (Model + Simulation + Dashboard)
+### 3. [A Generative Model for Online Store Operations](https://github.com/FabianOnt/a-generative-model-for-online-store-operations) (Model + Simulation + Dashboard)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
@@ -62,7 +62,7 @@ Local LLM inventory management AI-assistant powered by LangChain and Ollama (Qwe
 Simulation of an online store where users, vendors, products, and orders are generated using probabilistic models. Transactions are driven by a stock-conditioned model (chain rule), forming a Markov Chain over inventory states. Includes a MySQL database and a Power BI dashboard for analytics.
 
 
-### 3. [A Banking Operations Ecosystem](https://github.com/FabianOnt/banking-system) (Database + API + 5 Desktop APPs)
+### 4. [A Banking Operations Ecosystem](https://github.com/FabianOnt/banking-system) (Database + API + 5 Desktop APPs)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
@@ -72,7 +72,7 @@ Simulation of an online store where users, vendors, products, and orders are gen
 A full-featured banking system supporting administrative and operational tasks for employees, customers, and ATMs. Built with a MySQL database and a FastAPI backend, with five Python desktop applications (executive, manager, cashier, customer, ATM) using CustomTkinter.
 
 
-### 4. [Comparing Variational Autoencoder Model Variants](https://github.com/FabianOnt/comparing-classic-beta-and-conditional-variational-autoencoders) (Neural Networks + Dimension Reduction)
+### 5. [Comparing Variational Autoencoder Model Variants](https://github.com/FabianOnt/comparing-classic-beta-and-conditional-variational-autoencoders) (Neural Networks + Dimension Reduction)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
@@ -83,7 +83,7 @@ A full-featured banking system supporting administrative and operational tasks f
 Variational Autoencoder (VAE) implementation in PyTorch, designed as a flexible ``torch.nn.Module`` with ``.fit`` and ``.rsample`` methods for training and generation. Includes experiments on the MNIST dataset to compare model performance.
 
 
-### 5. [Discriminative Classification Models in Noise-Free vs Noisy Scenarios](https://github.com/FabianOnt/discriminative-classification-models-in-noise-free-vs-noisy-scenarios)
+### 6. [Discriminative Classification Models in Noise-Free vs Noisy Scenarios](https://github.com/FabianOnt/discriminative-classification-models-in-noise-free-vs-noisy-scenarios)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
@@ -93,7 +93,7 @@ Variational Autoencoder (VAE) implementation in PyTorch, designed as a flexible 
 
 This project builds a synthetic classification problem to compare discriminative models under noise. Labels come from thresholded random geometric mixtures over a fixed space. Noise-free data is uniformly sampled, noisy data adds Gaussian feature noise or Bernoulli label noise. Visualizations and metrics analyze noise effects on class probability.
 
-### 6. [A Topological Data Analysis Aplication on YouTube Channels Clustering](https://github.com/FabianOnt/topological-data-analysis-the-mapper-algorithm)
+### 7. [A Topological Data Analysis Aplication on YouTube Channels Clustering](https://github.com/FabianOnt/topological-data-analysis-the-mapper-algorithm)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
@@ -105,7 +105,7 @@ This project builds a synthetic classification problem to compare discriminative
 This project applies the Mapper algorithm to the Most Subscribed YouTube Channels dataset, building visualizations that show how Mapper constructs a simplicial complex to capture the data’s shape. It includes data cleaning, feature selection, multiple filter functions, and cluster analysis.
 
 
-### 7. [A Genetic Approach to the Shortest Path Problem: CDMX Metro Network](https://github.com/FabianOnt/a-genetic-approach-to-the-shortest-path-problem)
+### 8. [A Genetic Approach to the Shortest Path Problem: CDMX Metro Network](https://github.com/FabianOnt/a-genetic-approach-to-the-shortest-path-problem)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
