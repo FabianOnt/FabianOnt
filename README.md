@@ -1,5 +1,8 @@
 ## Hi, I am Fabián
-A mexican BS in Data Science focused on Machine Learning, Applied Mathematics and Python development. Interested in backend services, LLM applications and databases. With Linux knowledge and experience working with Docker.
+
+**Data Engineer & Backend Developer** with a solid foundation in Data Science and Applied Mathematics. 
+
+I specialize in building data infrastructure, end-to-end ETL/ELT pipelines, and backend systems. Focus on system design, database management, and deploying containerized LLM/RAG architectures using Python, Docker, and Linux environments.
 
 ## My Tech Stack
 
