@@ -6,7 +6,7 @@ I specialize in building data infrastructure, end-to-end ETL/ELT pipelines, and 
 
 ## My Tech Stack
 
-Focused on scientific computing tools and application-oriented development.
+Focused on data engineering infrastructure, scalable ETL pipelines, and backend service development.
 
 | Category | Technologies |
 |----------|-------------|
